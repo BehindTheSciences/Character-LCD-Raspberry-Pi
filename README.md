@@ -24,7 +24,7 @@ https://behindthesciences.com/electronics/connecting-an-lcd-to-a-raspberry-pi/
 
 ## Running Demo
 ```ruby
-python BTS_LCD_PI.py
+python BTS_LCD_Pi.py
 ```
 
 ## For more info
