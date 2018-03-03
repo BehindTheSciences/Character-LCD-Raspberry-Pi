@@ -23,7 +23,9 @@ https://behindthesciences.com/electronics/connecting-an-lcd-to-a-raspberry-pi/
 |16	|GND(Backlight)|	GND|
 
 # Running commands
+```ruby
 python BTS_LCD_PI.py
+```
 
 # For more info
 https://behindthesciences.com/electronics/connecting-an-lcd-to-a-raspberry-pi/
