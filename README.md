@@ -1,7 +1,7 @@
 # Character-LCD-Raspberry-Pi
 https://behindthesciences.com/electronics/connecting-an-lcd-to-a-raspberry-pi/
 ![LCD_PI](https://github.com/BehindTheSciences/Character-LCD-Raspberry-Pi/blob/master/Raspberry-Pi-connections-to-LCD.jpg)
-# LCD CONNECTIONS to a Raspberry Pi
+## LCD CONNECTIONS to a Raspberry Pi
 
 |LCD Pin|	Function |	Pi Pin |
 |------|------|------|
@@ -22,10 +22,10 @@ https://behindthesciences.com/electronics/connecting-an-lcd-to-a-raspberry-pi/
 |15|	+5V (Backlight)|	+5V|
 |16	|GND(Backlight)|	GND|
 
-# Running commands
+## Running commands
 ```ruby
 python BTS_LCD_PI.py
 ```
 
-# For more info
+## For more info
 https://behindthesciences.com/electronics/connecting-an-lcd-to-a-raspberry-pi/
