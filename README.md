@@ -1,5 +1,6 @@
 # Character-LCD-Raspberry-Pi
 https://behindthesciences.com/electronics/connecting-an-lcd-to-a-raspberry-pi/
+
 |LCD Pin|	Function |	Pi Pin |
 |------|------|------|
 |1|	GND|	GND|
