@@ -1,5 +1,6 @@
 # Character-LCD-Raspberry-Pi
 https://behindthesciences.com/electronics/connecting-an-lcd-to-a-raspberry-pi/
+![LCD_PI](https://github.com/BehindTheSciences/Character-LCD-Raspberry-Pi/blob/master/Raspberry-Pi-connections-to-LCD.jpg)
 # LCD CONNECTIONS to a Raspberry Pi
 
 |LCD Pin|	Function |	Pi Pin |
