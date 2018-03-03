@@ -21,3 +21,6 @@ https://behindthesciences.com/electronics/connecting-an-lcd-to-a-raspberry-pi/
 |14	|D7	|GPIO-25|
 |15|	+5V (Backlight)|	+5V|
 |16	|GND(Backlight)|	GND|
+
+# For more info
+https://behindthesciences.com/electronics/connecting-an-lcd-to-a-raspberry-pi/
