@@ -22,7 +22,7 @@ https://behindthesciences.com/electronics/connecting-an-lcd-to-a-raspberry-pi/
 |15|	+5V (Backlight)|	+5V|
 |16	|GND(Backlight)|	GND|
 
-## Running commands
+## Running Demo
 ```ruby
 python BTS_LCD_PI.py
 ```
